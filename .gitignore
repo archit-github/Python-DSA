@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.idea/
+*.iml
+*.xml
+*.gitattributes
+*.pyc
+*.pyo
+# Byte-compiled / optimized / DLL files
+config.cpython-39.pyc
+**/__pycache__/*.pyc
+**/__pycache__/
