@@ -1,4 +1,5 @@
 '''
+ordered array
 time complexity : O(nlogn)
 simple logic 
 find middle then check the value and repeat
